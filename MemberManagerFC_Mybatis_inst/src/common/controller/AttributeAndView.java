@@ -21,7 +21,7 @@ public class AttributeAndView {
 		this.url = url;
 		this.redirect = redirect;
 	}
-	//Attribute가 1개 이상일 경우 값 받는 생성자
+	//Attribute가 1개 이상일 경우 값 받는 생성자 테스트
 	public AttributeAndView(String url, boolean redirect, 
 																	Map<String, Object> attribute) {
 		this.url = url;
