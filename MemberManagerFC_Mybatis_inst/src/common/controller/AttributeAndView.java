@@ -28,7 +28,7 @@ public class AttributeAndView {
 		this.redirect = redirect;
 		this.attribute = attribute;
 	}
-	//attribute가 하나일 경우 값 받는 생성자
+	//attribute가 하나일 경우 값 받는 생성자asd
 	public AttributeAndView(String url, boolean redirect, String attributeName, Object attributeValue){
 		this.url = url;
 		this.redirect = redirect;
